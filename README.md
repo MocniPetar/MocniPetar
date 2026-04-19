@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hello friend 👋
+
+---
+
+I'm Pier, a student and sotware engineer based in Croatia.
+
+I create web apps, web api's, custome software and, this is a new addition to list of creations, video game development.
+
+---
+
+### Tech stack
+- Angular Typescript
+- ASP.NET 4.8
+- ASP.NET Core
+- Postgress
+- Unity C#
+- React
+
+### My tools
+- tablet for planning and designing
+- MacBook for development
+- Notion for cross-device planning
 
 <!--
 **MocniPetar/MocniPetar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
