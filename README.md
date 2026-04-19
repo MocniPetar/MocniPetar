@@ -1,7 +1,5 @@
 ## Hello friend 👋
 
----
-
 I'm Pier, a student and sotware engineer based in Croatia.
 
 I create web apps, web api's, custome software and, this is a new addition to list of creations, video game development.
