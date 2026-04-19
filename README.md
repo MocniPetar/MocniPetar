@@ -2,7 +2,7 @@
 
 I'm Pier, a student and sotware engineer based in Croatia.
 
-I create web apps, web api's, custome software and, this is a new addition to list of creations, video game development.
+I create web apps, custome software using languges like C, C# and python and, this is a new addition to my list of creations, video game development.
 
 - - -
 
